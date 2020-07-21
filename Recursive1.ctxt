@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Recursive1
+comment0.text=\r\n\ this\ is\ a\ program\ to\ print\ the\ fibonacci\ series\ using\ reccursive\ method\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n
+comment2.target=int\ fibo(int)
+numComments=3

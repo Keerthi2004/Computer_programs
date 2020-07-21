@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Array5
+comment0.text=Example\ \:\r\n\ input1\="I\ saw\ a\ saw\ in\ a\ saw."\r\n\ input2\="saw"\r\n\ Output\=3\r\n
+comment1.params=
+comment1.target=void\ check()
+comment2.params=
+comment2.target=void\ main()
+numComments=3

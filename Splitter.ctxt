@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Splitter
+comment0.text=\r\nTake\ an\ array\ of\ 10\ elements.\ Split\ it\ into\ middle\ and\ store\ the\ elements\ in\ two\ dfferent\ arrays.\ E.g.-\r\nINITIAL\ array\ \:\r\n58\t24\t13\t15\t63\t9\t8\t81\t1\t78\r\n\r\nAfter\ spliting\ \:\r\n58\t24\t13\t15\t63\r\n9\t8\t81\t1\t78\r\n
+comment1.params=
+comment1.target=void\ split()
+numComments=2
